@@ -1,4 +1,6 @@
 <?php
+
+require('vendor/autoload.php');
 // Reads the variables sent via POST
 
 

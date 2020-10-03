@@ -1,0 +1,12 @@
+{
+    "name": "tequerro/test-php",
+    "authors": [
+        {
+            "name": "Abel Domingos",
+            "email": "70151385+abeldomingos@users.noreply.github.com"
+        }
+    ],
+    "require": {"silex/silex": "~1.1"
+    
+    }
+}
